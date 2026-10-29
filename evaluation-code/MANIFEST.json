@@ -1,0 +1,27 @@
+[
+  {
+    "file": "check_gguf_reserved.py",
+    "sha256": "76944dd83994347aa58415e269c16f854d1b590e12034b6d9c4a0fa7763d2576",
+    "execution_status": "completed70pairs",
+    "pre_sanitization_sha256": "6e6917a5cdfdf9763f59f84eefb2221f182055c1d254a55e9e3bcd54a89a2f45",
+    "publication_note": "Personal path literals replaced with placeholders; experiment logic unchanged; sanitized copy not rerun."
+  },
+  {
+    "file": "run_blind_rater.py",
+    "sha256": "84a639e04d9c58b28af9f66fe7bbdc5ffe2ebcee98561dcf87e827ece3476beb",
+    "execution_status": "approved_Claude_attempt_failed_refusal_zero_labels; diagnostics_updated_after_failure",
+    "executed_source_sha256": "a5df63f7cf81f93ae4e9e00f235ff4123e6322cbdff90fd99b5938ba34aa9745",
+    "pre_sanitization_sha256": "a025b4a1c743db21a87cd3258798dcb47fb118f2088a604d3721226ace7313bf",
+    "publication_note": "Personal path literals replaced with placeholders; experiment logic unchanged; sanitized copy not rerun."
+  },
+  {
+    "file": "compare_blind_ratings.py",
+    "sha256": "553dd84254d9e50b88166a90d6b26e3a1810a34fe023b5131a998a05dbde9dc2",
+    "execution_status": "completed70paired_annotations"
+  },
+  {
+    "file": "prepare_release_records.py",
+    "sha256": "793c30736b6317268eee625f3abdc11a7c492bd553c72f781b7eccda070d3b18",
+    "execution_status": "completed1150rows"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "status": "failed_no_classification",
+  "model": "claude-opus-5-5",
+  "exit_code": 1,
+  "stop_reason": "refusal",
+  "classified_rows": 0,
+  "debug_sha256": "25eb1c161865050d62a72dd3eae1866a1cd837b977baeea64eaa4c993b1b7125"
+}

@@ -1,0 +1,7 @@
+{
+  "logit_max_abs_error": 0.0,
+  "cached_generation_matches": true,
+  "n_prompts": 3,
+  "device": "mps",
+  "dtype": "torch.float32"
+}
