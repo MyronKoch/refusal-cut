@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "file": "licenses/LICENSE-webAI.md",
+      "source_url": "https://huggingface.co/webAI-Official/TwIL-LM3-Pro/raw/144a3ccb31264deadcf68bc5a1d58f621e497d03/LICENSE.md",
+      "retrieved_date": "2026-10-11",
+      "bytes": 4383,
+      "sha256": "79dbbb1d4a08c335f0e39b4a2127e04264556a4f0c1a56082bc85bcd29087d5d"
+    },
+    {
+      "file": "licenses/apache-2.0-LICENSE.txt",
+      "source_url": "https://huggingface.co/webAI-Official/TwIL-LM3-Pro/raw/144a3ccb31264deadcf68bc5a1d58f621e497d03/apache-2.0-LICENSE.txt",
+      "retrieved_date": "2026-10-11",
+      "bytes": 11357,
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+    },
+    {
+      "file": "licenses/harmful_behaviors-README.md",
+      "source_url": "https://huggingface.co/datasets/mlabonne/harmful_behaviors/raw/01cead01398926d81f7c52bdb790ee8cf77ebba7/README.md",
+      "retrieved_date": "2026-10-11",
+      "bytes": 381,
+      "sha256": "79d578d1ea2ba0f43c59b9cc269ba050bde949cb31e08d8fb5247eceb500067b"
+    },
+    {
+      "file": "licenses/harmless_alpaca-README.md",
+      "source_url": "https://huggingface.co/datasets/mlabonne/harmless_alpaca/raw/02c6a92cfcf11bb0c387334f8146d149d65b587f/README.md",
+      "retrieved_date": "2026-10-11",
+      "bytes": 388,
+      "sha256": "6b13803510bef21d80f550caa45d884b6725590b8540ad542eda21a64fd0f763"
+    }
+  ]
+}
